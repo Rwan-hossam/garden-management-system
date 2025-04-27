@@ -1,0 +1,21 @@
+[
+  {
+    "id": "G1",
+    "name": "omar",
+    "age": 40,
+    "plot_number": 5546,
+    "contact_details": "fhfffj",
+    "preferred_plants": [
+      "nnn",
+      ""
+    ]
+  },
+  {
+    "id": "G2",
+    "name": "Sara",
+    "age": 29,
+    "plot_number": 0,
+    "contact_details": "",
+    "preferred_plants": null
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "P1",
+    "name": "Tomato",
+    "planting_season": "",
+    "care_instructions": ""
+  },
+  {
+    "id": "P2",
+    "name": "Mint",
+    "planting_season": "",
+    "care_instructions": ""
+  },
+  {
+    "id": "20",
+    "name": "mol",
+    "planting_season": "sss",
+    "care_instructions": "ffg"
+  },
+  {
+    "id": "4",
+    "name": "ro",
+    "planting_season": "ffff",
+    "care_instructions": "ffff"
+  }
+]
